@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: rahulmakwana
+Build-Jdk: 11.0.7
+Implementation-Title: OrganicFacade Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.main.organic.farm
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
